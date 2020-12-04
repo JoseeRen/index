@@ -1,0 +1,132 @@
+/*å®¢æœä¸­å¿ƒï¼ˆå•é¡µï¼‰ hanyanhong by 2014-09-25
+--------------------------------------------------*/
+
+/*æè¿°*/
+.call-center .describe {
+    margin-bottom: 50px;
+    line-height: 30px;
+    color: #999;
+  }
+  .call-center .describe p {
+    text-indent: 2em;
+  }
+  
+  /*å¸¸è§é—®é¢˜*/
+  .faq-list-wrap {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #eff0f0;
+  }
+  .faq-list-wrap h2 {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #666;
+  }
+  .faq-list {
+    text-align: center;
+  }
+  .faq-list li {
+    display: inline-block;
+    width: 120px;
+    margin: 0 40px;
+    vertical-align: top;
+  
+    *display: inline;
+    *zoom: 1;
+  }
+  
+  .faq-list .icon {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 25px;
+    background-image: url(../images/call-center-icon01.png);
+    background-repeat: no-repeat;
+  }
+  .faq-list .icon01 {
+    background-position: 0 0;
+  }
+  .faq-list .icon02 {
+    background-position: -140px 0;
+  }
+  .faq-list .icon03 {
+    background-position: -280px 0;
+  }
+  .faq-list .icon04 {
+    background-position: -420px 0;
+  }
+  
+  .faq-list .list {
+    padding-left: 20px;
+    text-align: left;
+  }
+  .faq-list .list a {
+    display: block;
+    font-size: 14px;
+    line-height: 2;
+    color: #666;
+  }
+  .faq-list .list a:hover {
+    color: #693;
+    text-decoration: underline;
+  }
+  
+  /*çƒ­çº¿*/
+  .hot-line-wrap {
+    position: relative;
+    margin: 0 0 100px -14px;
+  }
+  .hot-line {
+    float: left;
+    width: 183px;
+    height: 103px;
+    margin-left: 14px;
+    padding-top: 20px;
+    border: 1px solid #eff0f0;
+    background: #fff;
+    font-size: 18px;
+    color: #693;
+  
+    *display: inline;
+    *zoom: 1;
+  }
+  .hot-line .info {
+    height: 44px;
+    font-size: 14px;
+    color: #666;
+  }
+  .hot-line .time {
+    height: 26px;
+    background: #6fb11f;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .hot-line .icon {
+    padding-left: 75px;
+    background-image: url(../images/call-center-icon02.png);
+    background-repeat: no-repeat;
+  }
+  .hot-line .icon01 {
+    background-position: 10px 10px;
+  }
+  .hot-line .icon02 {
+    background-position: 10px -70px;
+  }
+  .hot-line .icon03 {
+    background-position: 10px -150px;
+  }
+  .hot-line .icon04 {
+    background-position: 10px -230px;
+  }
+  .hot-line .icon05 {
+    background-position: 10px -310px;
+  }
+  
+  .hot-line .mb5 a{
+      color: #693;
+  }
+  
+  .dynamic-detail{
+      line-height: normal !important;
+  }
+  

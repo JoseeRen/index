@@ -1,0 +1,295 @@
+/*åŠ å…¥è¾¹é”‹  hanyanhong by 2014-09-24
+----------------------------------------*/
+
+/*èŒä½æœç´¢*/
+.job-search .select-group {
+    margin-bottom: 15px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #eaeaea;
+  }
+  .job-search .select-group .select {
+    width: 170px;
+    margin-right: 20px;
+  }
+  .job-search .select-group .input {
+    width: 160px;
+    margin-right: 20px;
+    padding: 0 5px;
+  }
+  .job-search .select-group .button {
+    width: 60px;
+    height: 22px;
+    border: 1px solid #929292;
+    background-color: #e5e5e5;
+    line-height: 22px;
+  }
+  
+  .job-search .select-list {
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eaeaea;
+    font-family: simsun;
+    font-size: 12px;
+  }
+  .job-search .select-list dl {
+    *margin-bottom: 10px;
+  }
+  .job-search .select-list dt {
+    float: left;
+    width: 50px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #323232;
+    text-align: right;
+  }
+  .job-search .select-list dd {
+    float: left;
+    overflow: hidden;
+    width: 600px;
+    margin-bottom: 5px;
+    padding-top: 4px;
+  }
+  .job-search .select-list li {
+    float: left;
+    height: 12px;
+    margin-bottom: 10px;
+    margin-left: -1px;
+    border-left: 1px solid #999;
+    line-height: 12px;
+  }
+  .job-search .select-list li a {
+    position: relative;
+    display: block;
+    margin: -4px 10px;
+    padding: 3px 5px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    line-height: 12px;
+    color: #999;
+    white-space: nowrap;
+  }
+  .job-search .select-list .active a {
+    border: 1px solid #d8c476;
+    background-color: #fff2bf;
+  }
+  
+  .job-search .job-list {
+    overflow: hidden;
+    height: 240px;
+    margin-bottom: 50px;
+  }
+  .job-search .job-list li {
+    float: left;
+    width: 260px;
+    padding-left: 60px;
+  }
+  .job-search .job-list li a {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    font-family: simsun;
+    font-size: 12px;
+    line-height: 24px;
+    color: #999;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .job-search .job-list li a:hover {
+    color: #78bc27;
+  }
+  
+  /*æ‹›è˜æµç¨‹*/
+  .job-flow {
+    text-align: center;
+  }
+  
+  /*æ‹›è˜åŠ¨æ€*/
+  .job-dynamic .title {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #78bc27;
+    font-family: simsun;
+    font-size: 14px;
+    color: #78bc27;
+  }
+  .job-dynamic .job-news {
+    margin-bottom: 60px;
+    padding: 0 40px;
+  }
+  .job-dynamic .job-news li {
+    height: 24px;
+    padding-left: 12px;
+    border-bottom: 1px dashed #e6e6e6;
+    background: url(../i/bf-trends-li.png) no-repeat 0 50%;
+    font-size: 12px;
+    line-height: 24px;
+    color: #999;
+  }
+  .job-dynamic .job-news li .time {
+    float: right;
+  }
+  .job-dynamic .job-news li a {
+    color: #999;
+  }
+  .job-dynamic .job-news li a:hover {
+    color: #78bc27;
+  }
+  .job-dynamic .job-news .last {
+    border-bottom: 0;
+  }
+  
+  .job-dynamic .job-list {
+    overflow: hidden;
+    height: 240px;
+    margin-bottom: 50px;
+  }
+  .job-dynamic .job-list li {
+    float: left;
+    width: 320px;
+  }
+  .job-dynamic .job-list li a {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    font-family: simsun;
+    font-size: 12px;
+    line-height: 24px;
+    color: #999;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .job-dynamic .job-list li a:hover {
+    color: #78bc27;
+  }
+  
+  /*æ‹›è˜åŠ¨æ€ï¼šæ‹›è˜ä¿¡æ¯ç‚¹å‡»é¡µ*/
+  .job-dynamic-info .title {
+    margin-bottom: 15px;
+    font-family: simsun;
+    font-size: 14px;
+    font-weight: 700;
+    color: #78bc27;
+    text-align: center;
+  }
+  .job-dynamic-info .cont {
+    font-family: simsun;
+    font-size: 12px;
+    color: #999;
+  }
+  .job-dynamic-info .cont p {
+    margin-bottom: 10px;
+  }
+  .job-dynamic-info .black {
+    color: #333;
+  }
+  .job-dynamic-info ol li {
+    margin-left: 25px;
+    list-style-type: decimal;
+  }
+  
+  /*æ‹›è˜åŠ¨æ€ï¼šæ‹›è˜å²—ä½ç‚¹å‡»é¡µ*/
+  .job-dynamic-post .cont {
+    padding: 20px 30px;
+    font-family: simsun;
+    font-size: 12px;
+    color: #999;
+  }
+  .job-dynamic-post h4 {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #78bc27;
+  }
+  .job-dynamic-post p {
+    padding-left: 10px;
+  }
+  .job-dynamic-post a {
+    color: #999;
+  }
+  .job-dynamic-post .mb50 {
+    margin-bottom: 50px;
+  }
+  .job-dynamic-post ol li {
+    margin-left: 45px;
+    list-style-type: decimal;
+  }
+  
+  /*è”ç³»æ–¹å¼*/
+  .job-contact table {
+    width: 100%;
+  }
+  .job-contact table td {
+    padding: 25px;
+    border-bottom: 1px solid #e1e1e1;
+    font-family: simsun;
+    font-size: 12px;
+    color: #999;
+  }
+  .job-contact .city {
+    font-family: microsoft yahei;
+    font-size: 30px;
+    color: #78bc27;
+    text-align: center;
+  }
+  .job-contact .last td {
+    border-bottom: 0;
+  }
+  
+  /*ä½ é—®æˆ‘ç­”*/
+  .job-faq .cont {
+    margin-bottom: 20px;
+    font-family: simsun;
+    color: #999;
+  }
+  .job-faq .ask {
+    color: #78bc27;
+  }
+  .job-faq .cont a {
+    color: #999;
+    text-decoration: underline;
+  }
+  
+  /*åˆ†é¡µ*/
+  .pagination {
+    margin-bottom: 40px;
+    padding: 10px;
+    text-align: center;
+  }
+  .pagination li {
+    display: inline-block;
+    margin: 0 5px;
+    border: 1px solid #e4e4e4;
+  
+    *display: inline;
+    *zoom: 1;
+  }
+  .pagination li a,
+  .pagination li span,
+  .pagination .disabled span {
+    position: relative;
+    display: block;
+    padding: 2px 10px;
+    background-color: #fff;
+    font: 14px/20px Arial;
+    color: #b6b5b5;
+  
+    *padding-top: 5px;
+    *margin-top: -2px;
+  }
+  .pagination .active {
+    border: 1px solid #989797;
+  }
+  .pagination li a:hover,
+  .pagination .active span {
+    background-color: #989797;
+    color: #fff;
+  }
+  .pagination li a:hover {
+    text-decoration: none;
+  }
+  
+  
+  .offer a{
+      color: #78bc27;
+  }
+  

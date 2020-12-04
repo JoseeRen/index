@@ -1,0 +1,141 @@
+.nav {
+  background: #068FFF;
+}
+.nav-menu .menu-list li a:hover {
+  color: #068FFF;
+}
+.nav-links .links-list dt {
+  color: #068FFF;
+}
+.nav-links .links-list .list a:hover {
+  color: #068FFF;
+}
+.bf-title {
+  color: #068FFF;
+}
+.bf-register .btn {
+  border: 2px solid #068FFF;
+}
+.bf-register .btn-register {
+  background-color: #068FFF;
+}
+.bf-register .btn-login {
+  color: #068FFF;
+}
+.title-inside {
+  color: #068FFF;
+}
+.job-search .job-list li a:hover {
+  color: #068FFF;
+}
+.job-dynamic .title {
+  border-bottom: 1px solid #068FFF;
+  color: #068FFF;
+}
+.job-dynamic .job-news li a:hover {
+  color: #068FFF;
+}
+.job-dynamic .job-list li a:hover {
+  color: #068FFF;
+}
+.job-dynamic-info .title {
+  color: #068FFF;
+}
+.job-dynamic-post h4 {
+  color: #068FFF;
+}
+.job-contact .city {
+  color: #068FFF;
+}
+.job-faq .ask {
+  color: #068FFF;
+}
+.offer a{
+    color: #068FFF;
+}
+.contact-cont a{
+    color: #068FFF;
+}
+.btn_user_login{ background: #068FFF;}
+.login_header .header_bg {  background: #068FFF; }
+
+.app_sdo_login{border:1px solid #068FFF;}
+
+.hot-line .time {
+  background: #068FFF;
+
+}
+.hot-line .mb5 a{
+    color: #068FFF;
+}
+
+.faq-list .list a:hover {
+  color: #068FFF;
+}
+
+.hot-line {
+  color: #068FFF;
+}
+
+
+.banner .slider li.cur {
+  background:#068FFF;
+}
+
+.bf-edit-style li .time{
+  color: #068FFF;
+}
+
+
+
+
+
+/***鼠标移动上去色值**//***鼠标移动上去色值**/
+
+.nav-menu li a:hover,
+.nav-menu .active a {
+  background: #0079DD;
+}/**导航选择色值**/
+.nav-links .links {
+  background: #0079DD;
+}
+
+
+
+
+/*登录*/
+
+.btn_user_login{ background: #068FFF;}
+
+.login_header .header_bg { background: #068FFF;}
+
+
+
+/*注册*/
+
+.tongyi{ color:#068FFF;}
+
+
+.submit_btn_xin{ background:#068FFF;}
+
+
+body {}
+
+.layout { background: #068FFF; }
+
+.cell_title h2 { color: #068FFF;}
+
+.mod_regist_nav ul { border: 1px solid #068FFF; }
+
+.mod_regist_nav li { border-left: 1px solid #068FFF;}
+
+.mod_regist_nav a { color: #068FFF;}
+
+.mod_regist_nav .cur { background-color: #068FFF;}
+
+.mod_regist_nav .cur a { border-color: #068FFF;}
+
+
+
+
+
